@@ -24,7 +24,7 @@ def pregunta_01():
     
     # escribo mi codigo para solucionar el problema
     
-    return 300
+    return 316
 
 
 def pregunta_02():
